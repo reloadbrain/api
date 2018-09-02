@@ -6,13 +6,14 @@ HOST: https://api.judge0.com
 <!-- include(style.html) -->
 
 # About
-[Judge0 API](https://api.judge0.com) is an open source web API for code compilation and execution.
-Source code is available on [GitHub](https://github.com/judge0/api).
+[Judge0 API](https://api.judge0.com) is an [open source](https://github.com/judge0/api) web API for source code compilation and execution.
+Judge0 API allows you to execute client's source code in sandboxed environment in more than 40 compilers and interpreters.
+Full list of available compilers and interpreters is available [here](#statuses-and-languages-languages-get).
 
-Dummy client is available [here](/dummy-client.html) and can be used to try and test features of Judge0 API.
+To see Judge0 API in action, try [Judge0 IDE](https://ide.judge0.com).
 
 # Version
-This document describes Judge0 API version [`v1.0.0`](https://github.com/judge0/api/tree/v1.0.0).
+This document describes Judge0 API version [`v2.0.0`](https://github.com/judge0/api/tree/v2.0.0).
 
 # Date and time formats
 [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) standard is used.
